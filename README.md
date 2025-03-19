@@ -4,8 +4,12 @@
 </div>
 <br/>
 <p align="left">
-  Welcome to my GitHub profile! I'm a passionate developer with a keen interest in creating impactful projects. 
+  I'm **Leo**, a curious mind who enjoys experimenting with tech in my free time. Maybe I'm not the best, but I have fun creating things—and that’s what matters, right?
 </p>
+
+- 👨‍💻 Some of my projects are available in **[my repositories](https://github.com/leon-rg?tab=repositories)**.  
+- ⏳ I create things in my free time.  
+- 🚀 Always learning and building.  
 
 ---
 ## 🛠️ Languages & Tools
